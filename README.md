@@ -1,4 +1,3 @@
-# Author Srigowri M V (M20CS016)
 
 # PodcastApp
 
