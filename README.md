@@ -72,5 +72,7 @@ List containers using the following command
 docker ps -a
 ```
 
+You may now access the application by using the link
+
 
 
